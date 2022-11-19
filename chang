@@ -3,17 +3,19 @@
 	<head>
 		<meta charset="utf-8">
 		<title>Granja do Chang</title>
+		<link rel="stylesheet" href="style.css">
 
 		<style>
+			
 		</style>
 	</head>
 	<body>
 		<h1 style="text-align: center">Sobre a Granja do Chang</h1>
 
-		<p style="text-align: center">Localizada no interior da cidade a <strong>Granja do Chang</strong> traz para o mercado oque ha de melhor do ramo aviário.Fundada em 2011, a granja do chang ja é destaque em qualidade e lider em distribuição conquistando novos clientes a cada dia</p>
+		<p>Localizada no interior da cidade a <strong>Granja do Chang</strong> traz para o mercado oque ha de melhor do ramo aviário.Fundada em 2011, a granja do chang ja é destaque em qualidade e lider em distribuição conquistando novos clientes a cada dia</p>
 
 		<p style="font-size: 20px; text-align: center"><em>Nossa missão é: <strong>"proporcionar alimentos de qualidade para os clientes"</strong></em></p>
 
-		<p style="text-align: center">Oferecemos profissionais antenados as mudanças do meio aviário.Nosso atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes</p>
+		<p>Oferecemos profissionais antenados as mudanças do meio aviário.Nosso atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes</p>
 	</body>
 </html>

@@ -4,18 +4,33 @@
 		<meta charset="utf-8">
 		<title>Granja do Chang</title>
 		<link rel="stylesheet" href="style.css">
-
-		<style>
-			
-		</style>
 	</head>
+
 	<body>
-		<h1 style="text-align: center">Sobre a Granja do Chang</h1>
+		<header>
+			<h1 class="titulo-principal">Granja do Chang</h1>
+		</header>
+		<img id="granja" src="C:\Users\eu\Downloads\granja.jpg">
+		<div class="principal">	
+			<h2 class="titulo-centralizado">Sobre a Granja do Chang</h2>
 
-		<p>Localizada no interior da cidade a <strong>Granja do Chang</strong> traz para o mercado oque ha de melhor do ramo aviário.Fundada em 2011, a granja do chang ja é destaque em qualidade e lider em distribuição conquistando novos clientes a cada dia</p>
+			<p>Localizada no interior da cidade a <strong>Granja do Chang</strong> traz para o mercado oque ha de melhor do ramo aviário.Fundada em 2011, a granja do chang ja é destaque em qualidade e lider em distribuição conquistando novos clientes a cada dia</p>
 
-		<p style="font-size: 20px; text-align: center"><em>Nossa missão é: <strong>"proporcionar alimentos de qualidade para os clientes"</strong></em></p>
+			<p id="missao"><em>Nossa missão é: <strong>"proporcionar alimentos de qualidade para os clientes"</strong></em></p>
 
-		<p>Oferecemos profissionais antenados as mudanças do meio aviário.Nosso atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes</p>
+			<p>Oferecemos profissionais antenados as mudanças do meio aviário.Nosso atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes</p>
+		</div>
+
+		<div class="beneficios">
+			<h3 class="titulo-centralizado">Benefícios</h3>
+
+			<ul>
+				<li class="itens">Atendimento aos clientes</li>
+			    <li class="itens">Profissionais Qualificados</li>
+				<li class="itens">Mais Segurança e Qualidade</li>
+			</ul>
+
+			<img id="galinaceo" src="C:\Users\eu\Downloads\galinaceo.jpg">
+		</div>
 	</body>
 </html>
